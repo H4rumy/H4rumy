@@ -1,9 +1,16 @@
-## Hi there 👋
+# Hi there 🌸
 
-<!--
-**H4rumy/H4rumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 I'm Daniela Pereira and ...
 
-Here are some ideas to get you started:
+🎓 I'm a recent Computer Science graduate with a strong interest in **databases**, **back-end development**, and **full-stack projects**.  
+🚀 I enjoy learning and consistently put effort into exploring new technologies to improve my skills and create meaningful solutions.  
+🌱 Currently focused on expanding my knowledge and skills, aiming to become a reference professional and help others along the way.  
+🐾 Outside of coding, I love **animals** and enjoy relaxing by watching anime, reading, and playing video games — both challenging and more chill ones.  
+🌍 I dream of traveling the world to experience diverse cultures and perspectives.
+
+---
+
+## 🔗 Socials:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
